@@ -1,6 +1,7 @@
 # 유용한 블로그 모음
 
-## cs   
+## Computer science
+
 
 
 
@@ -11,6 +12,9 @@
 ## Algorithm
 * [LeetCode](https://leetcode.com/) - 면접용 알고리즘  
 
+
+## java
+* [Futurecreator](https://futurecreator.github.io/) - 삼성sds 개발자, 다양한 주제의 게시글, 깔끔한 정리, 자바 신기술 정리 굿
 
 
 ## Android
