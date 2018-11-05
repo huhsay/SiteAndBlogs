@@ -13,7 +13,8 @@
 
 
 ## java
-* [Futurecreator](https://futurecreator.github.io/) - 삼성sds 개발자, 다양한 주제의 게시글, 깔끔한 정리, 자바 신기술 정리 굿
+* [Futurecreator](https://futurecreator.github.io/) - 삼성sds 개발자, 다양한 주제의 게시글, 깔끔한 정리, 자바 신기술 정리 굿, 자바 스트림, 람다 정리가 잘되어 있다.
+* [기억보단 기록을](https://jojoldu.tistory.com/) - 객체지향설계 예시, 블랙잭 객체지향으로 설계하기
 
 
 ## Android
