@@ -33,8 +33,10 @@
 * [정승옥 기술블로그](https://medium.com/@jsuch2362) - 현 naver view, 안드로이드 개발자, MVVM
 * [BearCola github](https://github.com/BearCola/ForJavaAndAndroidInterview/blob/master/README.md) - 이직 인터뷰 질문 리스트
 * [기초 찬찬 영상털이's Story](http://dsnight.tistory.com/37?category=485244) -안드로이드 블루투스 연결 코드
-
 * [꿈 많은 개발자가 되자- Taehwan](https://thdev.tech/) - 안드로이드 코틀린 기술 블로그
+* [찰스의 안드로이드](https://www.charlezz.com/) - 안드로이드 기술블로그
+
+
 
 ## Etc
 
