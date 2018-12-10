@@ -26,8 +26,8 @@
 
 
 
-
 ## Android
+
 * [Vofella](http://www.vogella.com/) - 튜토리얼 사이트
 * [개발자를 위한 레시피](http://recipes4dev.tistory.com/) -안드로이드의 기본 뷰와 컴포넌트들에 대한 자세한 설명.  기본기를 익힐 때, 기본기가 기억나지 않을 때 참고하면 좋을 것 같다. 한동안 포스팅이 멈췄다 최근 다시 시작되었다.
 * [정승옥 기술블로그](https://medium.com/@jsuch2362) - 현 naver view, 안드로이드 개발자, MVVM
@@ -38,7 +38,19 @@
 
 
 
-## Etc
+## Android Interview
+
+* [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65)
+
+
+
+## Git
 
 * [안녕프로그래밍](https://www.holaxprogramming.com/) - 통합 기술블로그, git과 github에 관해서 실무에서 협업할 때 사용되는 내용들이 잘 정리 되어있다. [git flow...](https://www.holaxprogramming.com/2018/11/01/git-commands/) - 중급
 * [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/) - 입문부터 발전편까지 git tutorial 제공
+
+
+
+## Etc
+
+* [자바 개발자를 위한 도서 추천 - 백명석](https://brunch.co.kr/@cleancode/11#error:provider) - 자바 개발에 필요한 추천도서 모음입니다.
