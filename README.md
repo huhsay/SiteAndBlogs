@@ -35,12 +35,13 @@
 * [기초 찬찬 영상털이's Story](http://dsnight.tistory.com/37?category=485244) -안드로이드 블루투스 연결 코드
 * [꿈 많은 개발자가 되자- Taehwan](https://thdev.tech/) - 안드로이드 코틀린 기술 블로그
 * [찰스의 안드로이드](https://www.charlezz.com/) - 안드로이드 기술블로그
+* [박상권의 삽질 블로그](http://gun0912.tistory.com/) - 안드로이드 현업자 / 안드로이드 전반에 관한 블로그
 
 
 
 ## Android Interview
 
-* [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65)
+* [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65) - 안드로이드 이직 면접 모음
 
 
 
