@@ -45,6 +45,12 @@
 
 
 
+## Kotlin
+
+* [똑똑, 프로젝트에 코틀린을 도입하려고 합니다.](https://woowabros.github.io/experience/2017/07/18/introduction-to-kotlin-in-baeminfresh.html) - 우아한형제들 코틀린 도입기 / 최윤석 , 코틀린 장점들이 정리된 글입니다.
+
+
+
 ## Git
 
 * [안녕프로그래밍](https://www.holaxprogramming.com/) - 통합 기술블로그, git과 github에 관해서 실무에서 협업할 때 사용되는 내용들이 잘 정리 되어있다. [git flow...](https://www.holaxprogramming.com/2018/11/01/git-commands/) - 중급
