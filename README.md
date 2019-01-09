@@ -36,6 +36,7 @@
 * [꿈 많은 개발자가 되자- Taehwan](https://thdev.tech/) - 안드로이드 코틀린 기술 블로그
 * [찰스의 안드로이드](https://www.charlezz.com/) - 안드로이드 기술블로그
 * [박상권의 삽질 블로그](http://gun0912.tistory.com/) - 안드로이드 현업자 / 안드로이드 전반에 관한 블로그
+* [장범석님의 개발일지](http://dktfrmaster.blogspot.com/) - 안드로이드 현업자 / 심도있는 안드로이드 컴포넌트 개발
 
 
 
