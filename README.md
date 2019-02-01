@@ -57,9 +57,11 @@
 * [안녕프로그래밍](https://www.holaxprogramming.com/) - 통합 기술블로그, git과 github에 관해서 실무에서 협업할 때 사용되는 내용들이 잘 정리 되어있다. [git flow...](https://www.holaxprogramming.com/2018/11/01/git-commands/) - 중급
 * [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/) - 입문부터 발전편까지 git tutorial 제공
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html) - 우아한형제들 기술블로그 git-flow 도입 소개
+* [GitHub로 협업하는 방법[3] - Gitflow Workflow](https://gmlwjd9405.github.io/2018/05/12/how-to-collaborate-on-GitHub-3.html) - gitflow 방법에 대한 자세한 설명, 특히 github로 작업환경 구축하는 방법이 세세함
 
 
 
 ## Etc
 
 * [자바 개발자를 위한 도서 추천 - 백명석](https://brunch.co.kr/@cleancode/11#error:provider) - 자바 개발에 필요한 추천도서 모음입니다.
+* [RxJava 개념](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) - Rxjava 기본 개념
