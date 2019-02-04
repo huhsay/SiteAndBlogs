@@ -22,7 +22,13 @@
 
 ## java
 * [Futurecreator](https://futurecreator.github.io/) - 삼성sds 개발자, 다양한 주제의 게시글, 깔끔한 정리, 자바 신기술 정리 굿, 자바 스트림, 람다 정리가 잘되어 있다.
-* [기억보단 기록을](https://jojoldu.tistory.com/) - 객체지향설계 예시, 블랙잭 객체지향으로 설계하기  	
+* [기억보단 기록을](https://jojoldu.tistory.com/) - 객체지향설계 예시, 블랙잭 객체지향으로 설계하기  
+
+
+
+### GC
+
+- [Java Garbage Collection](https://d2.naver.com/helloworld/1329) - naver d2 GC 설명
 
 
 
@@ -40,7 +46,19 @@
 
 
 
-## Android Interview
+### Architecture
+
+- [Android MVP 무작정 따라하기 - Intro](https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/) - 태환님 블로그에 올라온 mpv 패턴 시리즈입니다.
+
+
+
+### Android 메모리누수
+
+* [안드로이드앱이 메모리 누수를 만드는 8가지](http://sjava.net/2016/05/%EB%B2%88%EC%97%AD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98leak%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-8%EA%B0%80%EC%A7%80/) - 안드로이드 메모리 누수 관련
+
+
+
+### Android Interview
 
 * [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65) - 안드로이드 이직 면접 모음
 
@@ -56,6 +74,11 @@
 
 * [안녕프로그래밍](https://www.holaxprogramming.com/) - 통합 기술블로그, git과 github에 관해서 실무에서 협업할 때 사용되는 내용들이 잘 정리 되어있다. [git flow...](https://www.holaxprogramming.com/2018/11/01/git-commands/) - 중급
 * [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/) - 입문부터 발전편까지 git tutorial 제공
+
+
+
+### Git-flow
+
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html) - 우아한형제들 기술블로그 git-flow 도입 소개
 * [GitHub로 협업하는 방법[3] - Gitflow Workflow](https://gmlwjd9405.github.io/2018/05/12/how-to-collaborate-on-GitHub-3.html) - gitflow 방법에 대한 자세한 설명, 특히 github로 작업환경 구축하는 방법이 세세함
 
