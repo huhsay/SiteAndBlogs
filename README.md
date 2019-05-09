@@ -23,6 +23,7 @@
 ## java
 * [Futurecreator](https://futurecreator.github.io/) - 삼성sds 개발자, 다양한 주제의 게시글, 깔끔한 정리, 자바 신기술 정리 굿, 자바 스트림, 람다 정리가 잘되어 있다.
 * [기억보단 기록을](https://jojoldu.tistory.com/) - 객체지향설계 예시, 블랙잭 객체지향으로 설계하기  
+* [자바기본서추천에 대하여 / 대표적인 기본서 비교](https://asfirstalways.tistory.com/146) - 자바 기본서 비교 / 자바 수준에 맞춘 추천
 
 
 
@@ -43,20 +44,35 @@
 * [찰스의 안드로이드](https://www.charlezz.com/) - 안드로이드 기술블로그
 * [박상권의 삽질 블로그](http://gun0912.tistory.com/) - 안드로이드 현업자 / 안드로이드 전반에 관한 블로그
 * [장범석님의 개발일지](http://dktfrmaster.blogspot.com/) - 안드로이드 현업자 / 심도있는 안드로이드 컴포넌트 개발
+* [Pluu Dev](http://pluu.github.io/blog/android/2016/12/25/android-network/) - [번역] 안드로이드 통신 라이브러리 역사를 되돌아본다.
+* [겸손할 겸](<https://g-y-e-o-m.tistory.com/>) - 안드로이드 및 iOS
+* [pistolcaffe](<https://blog.naver.com/pistolcaffe>) - 안드로이드 개발 및 api 분석
+* [Android Handler Story]([http://blog.naver.com/PostView.nhn?blogId=huewu&logNo=110115454542](http://blog.naver.com/PostView.nhn?blogId=huewu&logNo=110115454542)) - Handler, looper, Message Queue 설명
+* [휴휴휴]([http://blog.naver.com/huewu/110085391353](http://blog.naver.com/huewu/110085391353)) - 안드로이드 기초 번역글 / 너무 오래된 자료이긴하나 기초적인 내용들
+* [gauray-khanna](https://gaurav-khanna.in/) - 안드로이드 심화 / 깊이 있는 설명
 
 
 
 ### Architecture
 
 - [Android MVP 무작정 따라하기 - Intro](https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/) - 태환님 블로그에 올라온 mpv 패턴 시리즈입니다.
+- [안드로이드의 mvc, mvp, mvvm 종합 안내서](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/) - realm
+
+
+
+### Android Component
+
+- [LoaderManager](https://www.androiddesignpatterns.com/2012/07/understanding-loadermanager.html) - loaderManager의 작동원리
 
 
 
 ### Android 메모리누수
 
 * [안드로이드앱이 메모리 누수를 만드는 8가지](http://sjava.net/2016/05/%EB%B2%88%EC%97%AD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98leak%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-8%EA%B0%80%EC%A7%80/) - 안드로이드 메모리 누수 관련
+* [Android 앱 메모리 최적화](https://d2.naver.com/helloworld/539525) - d2 기술블로그 비트맵관련 메모리 최적화
+* [안드로이드에서의 비트맵과 메모리의 상관관계](https://medium.com/marojuns-android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%ED%8A%B8%EB%A7%B5%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84-125308c293b9) - 비트맵관련 메모리 관리
 
-
+### 
 
 ### Android Interview
 
@@ -88,3 +104,7 @@
 
 * [자바 개발자를 위한 도서 추천 - 백명석](https://brunch.co.kr/@cleancode/11#error:provider) - 자바 개발에 필요한 추천도서 모음입니다.
 * [RxJava 개념](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) - Rxjava 기본 개념
+* [쾌락코딩](https://wooooooak.github.io/) -개발 전반 블로그
+* [Preamtree](https://preamtree.tistory.com/) - 기타 개발에 관련된 블로그
+* [봄이네집 개발 블로그](https://tech.wheejuni.com/archives) - 코드리뷰 받은 것들 정리
+* [깃허브 외부 라이브러리 적용하기](https://g-y-e-o-m.tistory.com/38) - 오픈 소스라이브러르 모듈로 import하여 수정하기
