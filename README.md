@@ -50,6 +50,9 @@
 * [Android Handler Story]([http://blog.naver.com/PostView.nhn?blogId=huewu&logNo=110115454542](http://blog.naver.com/PostView.nhn?blogId=huewu&logNo=110115454542)) - Handler, looper, Message Queue 설명
 * [휴휴휴]([http://blog.naver.com/huewu/110085391353](http://blog.naver.com/huewu/110085391353)) - 안드로이드 기초 번역글 / 너무 오래된 자료이긴하나 기초적인 내용들
 * [gauray-khanna](https://gaurav-khanna.in/) - 안드로이드 심화 / 깊이 있는 설명
+* [좋은 안드로이드 앱 개발자가 되는 법](https://brunch.co.kr/@imagineer/94) - 개발 읽어주는 남자, 안드로이드 공부하는 순서를 초급부터 고급까지 정리, 이 키워드를 따라 공부하기 좋을 것 같다.
+* [Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514) - context 설명
+* [안드로이드App개발 09.task](https://www.slideshare.net/daeheejang1/app-09task-19667075) - 안드로이드 테스크에 대한 설명
 
 
 
@@ -78,7 +81,7 @@
 
 * [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65) - 안드로이드 이직 면접 모음
 
-
+- [Interviewing Android Developer](https://brunch.co.kr/@oemilk/68) - 안드로이드 면접에서 물어 볼 수 있는 카테고리 번역글
 
 ## Kotlin
 
@@ -108,3 +111,4 @@
 * [Preamtree](https://preamtree.tistory.com/) - 기타 개발에 관련된 블로그
 * [봄이네집 개발 블로그](https://tech.wheejuni.com/archives) - 코드리뷰 받은 것들 정리
 * [깃허브 외부 라이브러리 적용하기](https://g-y-e-o-m.tistory.com/38) - 오픈 소스라이브러르 모듈로 import하여 수정하기
+* [한눈에 보는 iOS / Android UI 기본 용어](https://brunch.co.kr/@zalhanilll/155) - 디자이너가 직접 그려 비교한 ios와 안드로이드의 ui 명칭 차이
