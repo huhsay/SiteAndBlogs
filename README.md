@@ -53,8 +53,9 @@
 * [좋은 안드로이드 앱 개발자가 되는 법](https://brunch.co.kr/@imagineer/94) - 개발 읽어주는 남자, 안드로이드 공부하는 순서를 초급부터 고급까지 정리, 이 키워드를 따라 공부하기 좋을 것 같다.
 * [Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514) - context 설명
 * [안드로이드App개발 09.task](https://www.slideshare.net/daeheejang1/app-09task-19667075) - 안드로이드 테스크에 대한 설명
+* [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196) - android task와 간련된 가이드
 
-
+- [Android: draw a custom View](https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b) - view 정의, view의 생명주기, custom view tutorial
 
 ### Architecture
 
@@ -74,6 +75,8 @@
 * [안드로이드앱이 메모리 누수를 만드는 8가지](http://sjava.net/2016/05/%EB%B2%88%EC%97%AD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98leak%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-8%EA%B0%80%EC%A7%80/) - 안드로이드 메모리 누수 관련
 * [Android 앱 메모리 최적화](https://d2.naver.com/helloworld/539525) - d2 기술블로그 비트맵관련 메모리 최적화
 * [안드로이드에서의 비트맵과 메모리의 상관관계](https://medium.com/marojuns-android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%ED%8A%B8%EB%A7%B5%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84-125308c293b9) - 비트맵관련 메모리 관리
+* [Memory leaks in Android - idetify, treat and avoid / Johan Olsson](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8) - 모니터를 활용한 메모리 누수 최적화 
+* [9 ways to avoid memory leaks in Android / Anitaa Murthy](https://android.jlelse.eu/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e) - 릭이 발생하는 9가지 경우
 
 ### 
 
@@ -82,6 +85,8 @@
 * [안드로이드 개발자 이직 면접(지인) / branch 이승현](https://brunch.co.kr/@oemilk/65) - 안드로이드 이직 면접 모음
 
 - [Interviewing Android Developer](https://brunch.co.kr/@oemilk/68) - 안드로이드 면접에서 물어 볼 수 있는 카테고리 번역글
+
+
 
 ## Kotlin
 
